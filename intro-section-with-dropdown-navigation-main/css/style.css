@@ -289,6 +289,10 @@ h1{
     #image-hero-desktop { 
         margin: 0px 0 0 15px;
     }
+    
+    h1 {
+        margin: 5rem 0rem 0rem 0rem;
+    }
 
     .paragraph {
         margin: 2rem 0;
